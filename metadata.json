@@ -1,0 +1,6 @@
+{
+  "name": "MenoHealthGuide",
+  "description": "Complete, modern, mobile-responsive CSS design system and blog layout for MenoHealthGuide women's health and menopause wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
