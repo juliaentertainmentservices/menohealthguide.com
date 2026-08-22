@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://menohealthguide.com/sitemap.xml

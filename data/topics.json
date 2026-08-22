@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {"slug":"menopause-basics","title":"Menopause Basics: What It Means","category":"MENOPAUSE"},
+    {"slug":"perimenopause-period-changes","title":"Period Changes During Perimenopause","category":"PERIMENOPAUSE"},
+    {"slug":"night-sweats-menopause","title":"Night Sweats and Menopause","category":"SYMPTOMS"},
+    {"slug":"menopause-mood-changes","title":"Mood Changes Around Menopause","category":"SYMPTOMS"},
+    {"slug":"menopause-and-exercise","title":"Exercise and Menopause","category":"WELLBEING"},
+    {"slug":"menopause-and-nutrition","title":"Nutrition During Menopause","category":"WELLBEING"},
+    {"slug":"talking-to-your-doctor-about-menopause","title":"Questions to Ask About Menopause","category":"HEALTHCARE"},
+    {"slug":"vaginal-symptoms-menopause","title":"Vaginal Symptoms During Menopause","category":"SYMPTOMS"}
+  ]
+}
